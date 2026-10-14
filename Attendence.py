@@ -211,7 +211,7 @@ def recognize_faces():
 
 
 def main():
-    base_path = r"C:\Users\manut\Downloads\AttendEase"
+    base_path = r"Enter the path where these files are downloaded"
 
     # Train model (Can be commented out if you already trained your dataset once)
     train_model(base_path)
